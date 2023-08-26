@@ -16,3 +16,18 @@
 <h1 align="center">
   hey there  ✌️
 </h1>
+
+<div align="center">
+  <img src="https://github.com/Georgii-N/Georgii-N/assets/62737451/4109e05c-0861-4d12-806b-be5e6851f9a3" width="500" />
+</div>
+
+### :man_technologist: About Me :
+I am Georgii & I am a Junior iOS developer!
+
+- :telescope: During my education, I've developed several mobile applications.
+
+- :desktop_computer: I continue to improve my skills in order to create products that make the life of users more convenient.
+
+- :zap: In my free time, I play chess and travel.
+
+
