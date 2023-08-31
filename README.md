@@ -1,5 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="150"/>
+<div align="center">
+  <h1 align="center">
+  hey there  ✌️
+</h1>
+  <img src="https://github.com/Georgii-N/Georgii-N/assets/62737451/4109e05c-0861-4d12-806b-be5e6851f9a3" width="350" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/georgiy-neguritsa-8a502b1a7/">
@@ -13,13 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=georgii-n&style=flat-square&color=blue" alt=""/> 
 </div>
 
-<h1 align="center">
-  hey there  ✌️
-</h1>
-
-<div align="center">
-  <img src="https://github.com/Georgii-N/Georgii-N/assets/62737451/4109e05c-0861-4d12-806b-be5e6851f9a3" width="350" />
-</div>
+---
 
 ### :man_technologist: About Me :
 I am Georgii & I am a Junior iOS developer!
