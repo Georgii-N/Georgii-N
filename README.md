@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am Georgii & I am a Junior iOS developer!
+I am Georgii & I am an iOS developer!
 
 - :telescope: During my education, I've developed several mobile applications.
 
